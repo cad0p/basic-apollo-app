@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "homepage": "https://cad0p.github.io/basic-apollo-app",
   "main": "src/index.js",
   "dependencies": {
     "@apollo/react-hooks": "0.1.0-beta.11",
